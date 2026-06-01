@@ -425,6 +425,72 @@ Physical AI가 실제로 배치되는 1차 시장.
 
 ---
 
+## F. 우주테크 섹터 — Space Tech (발사체·위성·지상국·응용)
+
+신규 추가 ([JAE-94](/JAE/issues/JAE-94) → [JAE-95](/JAE/issues/JAE-95), 2026-06-01). 글로벌 New Space 상업화(SpaceX 비상장 / Starlink / Rocket Lab Neutron / AST SpaceMobile D2C) + 한국 누리호 5호기(2026 Q3 예정)·발사체 민간화·위성통신 D2C 사이클을 추적한다. 5 레이어 구조.
+
+### L1. 발사체·로켓엔진
+
+발사체(런처) + 로켓엔진·추진제·구조체. 한국은 누리호 체계종합기업 한화에어로 + 민간 발사체 이노스페이스 2축.
+
+| 구분 | 글로벌 | 한국 |
+|------|--------|------|
+| 회사 | SpaceX (비상장), Rocket Lab (RKLB), Blue Origin (비상장, Amazon), Firefly Aerospace (FLY), United Launch Alliance (비상장), Astra (ASTR) | 한화에어로스페이스(012450, 누리호 체계종합·엔진), 이노스페이스(462350, 한빛 발사체), 한국항공우주(047810, KSLV 일부) |
+
+**관련 ETF**
+- 글로벌: Procure Space (UFO), ARK Space Exploration (ARKX), SPDR S&P Kensho Final Frontiers (ROKT)
+- 한국: TIGER K방산&우주(463250) (방산 비중 일부 중첩), KODEX 미국우주항공(코드 확인, 2026-03-17 상장)
+
+### L2. 위성 제조·위성 플랫폼
+
+위성 본체·플랫폼·페이로드·서브시스템. 한국은 쎄트렉아이(한화 계열, 비상장 자회사화)·LIG넥스원 위성 사업 + 한화시스템 SAR/페이로드 핵심.
+
+| 구분 | 글로벌 | 한국 |
+|------|--------|------|
+| 회사 | Maxar (비상장, Advent 인수), Planet Labs (PL), Lockheed Martin (LMT, 위성 부문), Airbus (AIR.PA), Thales Alenia (HO.PA), Sidus Space (SIDU), Redwire (RDW) | LIG넥스원(079550, 군 위성·천리안 통신탑재체), 한화시스템(272210, 위성 페이로드·SAR), 쎄트렉아이(한화 자회사·비상장 전환), 컨텍(451760, 위성 본체 일부) |
+
+**관련 ETF**
+- 글로벌: UFO, ARKX, ROKT
+- 한국: TIGER K방산&우주(463250)
+
+### L3. 지상국·위성통신·데이터 (GSaaS)
+
+지상국 네트워크·관제·다운링크·위성통신 안테나·해상/항공 통신. 한국은 컨텍(글로벌 GSaaS) + 인텔리안테크(LEO 안테나) 핵심.
+
+| 구분 | 글로벌 | 한국 |
+|------|--------|------|
+| 회사 | Iridium Communications (IRDM), Globalstar (GSAT), AST SpaceMobile (ASTS, D2C), EchoStar (SATS, Starlink 지분 보유), Viasat (VSAT), KSAT (비상장, 노르웨이) | 컨텍(451760, GSaaS·지상국 네트워크), 인텔리안테크(189300, LEO·해상 안테나), KT SAT(KT 030200 자회사·비상장) |
+
+**관련 ETF**
+- 글로벌: UFO, ARKX
+- 한국: TIGER K방산&우주(463250) (간접)
+
+### L4. 위성 서비스·응용 (관측·항법·SAR·D2C)
+
+위성을 활용한 응용 서비스 — 지구관측(EO), SAR, PNT(항법), IoT·D2C 통신. 응용 단계 매출이 가장 빠르게 확장.
+
+| 구분 | 글로벌 | 한국 |
+|------|--------|------|
+| 회사 | Planet Labs (PL, EO), BlackSky (BKSY, 첩보 EO), Spire Global (SPIR, RF/AIS), AST SpaceMobile (ASTS, D2C), Iridium (IRDM, IoT), Trimble (TRMB, PNT) | 한화시스템(272210, SAR·국방 응용), LIG넥스원(079550, 군 응용), SK텔레콤(017670, D2C 위성통신 협업), KT(030200, D2C·해사 위성) |
+
+**관련 ETF**
+- 글로벌: UFO, ARKX, ROKT
+- 한국: TIGER K방산&우주(463250)
+
+### L5. 우주 탐사·심우주·우주 관광
+
+심우주 미션·달·화성·우주 관광. 매출 기여는 장기. 7일 단위 catalyst는 정부 발사·NASA·우주청 발표 의존.
+
+| 구분 | 글로벌 | 한국 |
+|------|--------|------|
+| 회사 | SpaceX (비상장, Starship), Blue Origin (비상장, New Glenn), Intuitive Machines (LUNR, 달 착륙선), Astrobotic (비상장), Virgin Galactic (SPCE, 준궤도 관광) | 한국항공우주(047810, KARI 협업), 한화에어로스페이스(012450, 차세대발사체) — 직접 노출 제한적 |
+
+**관련 ETF**
+- 글로벌: UFO, ARKX
+- 한국: 직접 노출 부재 — TIGER K방산&우주(463250) 간접
+
+---
+
 ## 사용 규칙
 
 1. 각 섹터 주간 리포트는 본 문서의 **모든 레이어 챕터**를 빠짐없이 포함한다 (작성 규칙 10).
@@ -442,3 +508,4 @@ Physical AI가 실제로 배치되는 1차 시장.
 ## 변경 이력
 
 - 2026-05-30 — 초안 작성 ([JAE-88](/JAE/issues/JAE-88) 보드 추가 피드백 반영). 5개 섹터 (+ E의 5개 서브섹터) 레이어 정의 + 회사 + ETF 매핑.
+- 2026-06-01 — F. 우주테크 섹터 신규 추가 ([JAE-94](/JAE/issues/JAE-94) CEO 위임 → [JAE-95](/JAE/issues/JAE-95) QuantResearcher 실행). L1 발사체·로켓엔진 / L2 위성 제조·플랫폼 / L3 지상국·위성통신·데이터 / L4 위성 서비스·응용 / L5 우주 탐사·심우주·관광. 다음 주간 리포트(2026-06-06 이후 발행)부터 [F] 섹터 파일 `YYYY-MM-DD-weekly-sector-space.md`로 포함. 인덱스 테이블·섹터 요약에 [F] 행 추가.
